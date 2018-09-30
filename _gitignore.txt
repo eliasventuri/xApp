@@ -1,0 +1,11 @@
+/node_modules
+
+# Sublime Text Files
+*.sublime-*
+
+# Debugging Purposes
+*.mp4
+*.srt
+
+# Build files
+/build
